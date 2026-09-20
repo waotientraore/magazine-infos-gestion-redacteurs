@@ -75,15 +75,8 @@ Chaque opération d'écriture (ajout, modification, suppression) est suivie d'un
 
 ![App Screenshot](https://dummyimage.com/468x300?text=App+Screenshot+Here)
 
-Capture d'écran 2026-09-20 121114.png
 
-Capture d'écran 2026-09-20 121722.png
 
-Capture d'écran 2026-09-20 121746.png
-
-Capture d'écran 2026-09-20 121825.png
-
-Capture d'écran 2026-09-20 121846.png
 ## 6. Choix techniques
 
 * Le projet cible principalement Android/iOS/desktop (conforme aux maquettes du sujet). Une adaptation Flutter Web a été ajoutée via sqflite_common_ffi_web, qui remplace le moteur SQLite natif par un moteur basé sur IndexedDB dans le navigateur.
