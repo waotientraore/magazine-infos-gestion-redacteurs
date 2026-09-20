@@ -89,8 +89,3 @@ Chaque opération d'écriture (ajout, modification, suppression) est suivie d'un
 
 Developpeur junior flutter
 
-
-## Screenshots
-
-![App Screenshot](https://dummyimage.com/468x300?text=App+Screenshot+Here)Capture d'écran 2026-09-20 121114.png
-
