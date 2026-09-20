@@ -71,12 +71,6 @@ Chaque opération d'écriture (ajout, modification, suppression) est suivie d'un
 * AlertDialog / showDialog() : affichent une boîte de dialogue par-dessus l'écran, utilisée ici pour la modification d'un rédacteur et la confirmation de suppression.
 
 * Future / async / await : gèrent les opérations asynchrones (accès à la base de données), qui prennent un temps indéterminé avant de renvoyer un résultat.
-## Screenshots
-
-![App Screenshot](https://dummyimage.com/468x300?text=App+Screenshot+Here)
-
-
-
 ## 6. Choix techniques
 
 * Le projet cible principalement Android/iOS/desktop (conforme aux maquettes du sujet). Une adaptation Flutter Web a été ajoutée via sqflite_common_ffi_web, qui remplace le moteur SQLite natif par un moteur basé sur IndexedDB dans le navigateur.
@@ -94,4 +88,9 @@ Chaque opération d'écriture (ajout, modification, suppression) est suivie d'un
 - [waotientraore](https://github.com/waotientraore/magazine-infos-gestion-redacteurs)
 
 Developpeur junior flutter
+
+
+## Screenshots
+
+![App Screenshot](https://dummyimage.com/468x300?text=App+Screenshot+Here)Capture d'écran 2026-09-20 121114.png
 
