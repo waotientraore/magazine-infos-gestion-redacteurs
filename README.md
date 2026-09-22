@@ -25,6 +25,11 @@ lib/
 * services/database_manager.dart : gère toute la communication avec la base de données locale (création, insertion, lecture, mise à jour, suppression).
 
 * views/redacteur_interface.dart : écran principal (StatefulWidget). Contient le formulaire de saisie, le bouton d'ajout, la liste des rédacteurs et les boîtes de dialogue de modification/suppression.
+## Screenshots
+
+![App Screenshot](liste_reda.png,modifacation.png,suppression.png,apres_suppression.png)
+
+
 ## 3. Base de données SQLite
 
 La base est un fichier nommé redacteurs.db, ouvert avec openDatabase() (ou son équivalent web via sqflite_common_ffi_web). Elle contient une seule table :
